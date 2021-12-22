@@ -37,3 +37,6 @@
 [submodule "assignment-7-sonalisinghnortheastern"]
 	path = assignment-7-sonalisinghnortheastern
 	url = https://github.com/neu-mis-info6150-fall2021/assignment-7-sonalisinghnortheastern
+[submodule "lab-9-sonalisinghnortheastern"]
+	path = lab-9-sonalisinghnortheastern
+	url = https://github.com/neu-mis-info6150-fall2021/lab-9-sonalisinghnortheastern
