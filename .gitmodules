@@ -1,3 +1,6 @@
 [submodule "final-project-team-30"]
 	path = final-project-team-30
 	url = https://github.com/neu-mis-info6150-fall2021/final-project-team-30
+[submodule "assignment-1-sonalisinghnortheastern"]
+	path = assignment-1-sonalisinghnortheastern
+	url = https://github.com/neu-mis-info6150-fall2021/assignment-1-sonalisinghnortheastern
